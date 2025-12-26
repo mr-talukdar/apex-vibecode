@@ -1,0 +1,5 @@
+{
+  "name": "ApeX",
+  "description": "A gamified motorcycling community platform where riders unlock group rides based on their experience points (XP). Features AI-powered ride descriptions.",
+  "requestFramePermissions": []
+}
